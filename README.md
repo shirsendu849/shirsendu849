@@ -15,8 +15,8 @@
 <img align="right" height="150" width="150" alt="" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 ### :man_technologist: &nbsp;About Me :
-Data Analyst & Data Science Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🌱 Exploring Python, MySQL, PostgreSQL, Microsoft SQL Server, EDA, PowerBI, Tableau, Machine Learning.
+Data Analyst, & Data Science Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- 🌱 Exploring Python, MySQL, PostgreSQL, Microsoft SQL Server, EDA, ETL, PowerBI, Tableau, Machine Learning.
 - ⚡ In my free time I solve problems on HackerRank, Leetcode, DataLemur and read tech articles.
 - 📫 How to reach me: &nbsp; 
 <a href="mailto:shirsendu.manna.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
